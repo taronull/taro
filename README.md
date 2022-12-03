@@ -4,7 +4,7 @@ I’ve learnt how technology helps people create and share meaning. I want to sh
 
 * Elixir.Phoenix
 * SvelteJS 
-* Founder @ [Feder](feder.is)
+* Founder @ [Feder](https://feder.is)
 * Excellence in simplicity
 * Complex systems
 * Social autonomy
