@@ -1,1 +1,1 @@
-Founder @ [Feder - Social Journal](https://feder.is)
+Founder @ [Feder — Social Journal](https://feder.is)
