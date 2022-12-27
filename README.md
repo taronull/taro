@@ -1,10 +1,12 @@
-I seek meaning. Shaping this world little more meaningful, I hope it makes a difference for growing children and the future of our society.
+I seek meaning. 
 
-* Founder @ [Feder](https://feder.is)
-* Elixir.Phoenix
-* SvelteJS 
-* Excellence in simplicity
-* Complex systems
-* Social autonomy
+I write software to make your world a little more meaningful. I hope it makes a difference for growing children and the future of our society.
+
+• Founder @ Feder 
+• Elixir.Phoenix 
+• SvelteJS 
+• Excellence in simplicity 
+• Social philosophy
+• Complex systems 
 
 What do you seek in your life?
