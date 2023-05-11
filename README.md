@@ -1,2 +1,1 @@
-+ Elixir.Phoenix 
-+ Excellence in simplicity 
+I write about meaningful life and society.
