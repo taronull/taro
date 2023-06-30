@@ -71,7 +71,8 @@ Optimised `{}` and `()` can make it better than the original.
 
 # Mac Control
 
-             left <- ^b  ^f -> right
-    start of line <- ^a  ^e -> end of line
-     clear before <- ^u  ^k -> clear after
+             left <- ^b ^f -> right
+    start of line <- ^a ^e -> end of line
+     clear before <- ^u ^k -> clear after
+  delete backward <- ^h ^d -> delete forward
     delete a word <- ^w
