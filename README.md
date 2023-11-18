@@ -1,1 +1,1 @@
-I write about meaningful life and society.
+a softer human future
