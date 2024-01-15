@@ -1,1 +1,1 @@
-a softer human future
+softer human futures 
