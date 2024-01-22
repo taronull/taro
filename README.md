@@ -1,1 +1,1 @@
-softer human futures 
+[Softer Human Future](https://taronull.substack.com)

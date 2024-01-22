@@ -1,17 +1,15 @@
 # Sapir - a sensible keyboard layout
 
 ```
-z l h g q j f o u ` 
+z l h g q j f o u ' 
 s r n t m y c a e i
-v x b d k w p " : . /
+v x b d k w p " , . /
 ```
 
 Sapir is a keyboard layout for comfortable typing. It features
 
 - Extremely low single-finger bigram percentage
 - Ergonomics for fingers, especially for shorter pinkies
-
-## Layout
 
 Sapir is based on Whorf layout: 
 
@@ -23,24 +21,16 @@ x j b z q p c ' ; .
 
 > Edward Sapir and Benjamin Lee Whorf are known for _Sapir–Whorf hypothesis_. Although, they never co-authored any work or call it a hypothesis. The concept describes [linguistic relativity](https://en.wikipedia.org/wiki/Linguistic_relativity) where thoughts are shaped by the language used. 
 
-Whorf is a purely algorithmic layout. It's optimised for shortest path travelled 2-dimensionally. The essence of Whorf is the vowels on the right-hand side. Sapir relocates consonants to add human factors. Least used keys are placed on the outer corners. This is especially comfortable for relatively shorter pinkies.
+Whorf is a purely algorithmic layout. It's optimised for shortest path travelled 2-dimensionally. The heart of Whorf is the vowels on the right-hand side. Sapir relocates consonants to add human factors. Least used keys are placed on the outer corners. 
 
-## Options
+## On Planck
 
-### Shifted punctuations & Hidden comma
+You can accomodate all ASCII characters on a Planck keyboard.
 
 ```
-" : .
-' ; ,  
+ tap: ' , . /
+hold: ` ; : \
 ```
-
-Full/double punctuations can be more frequent than their semi/single counterparts. If this is your case, Sapir recommends shifted punctuations. 
-
-Comma is layered on full stop. If you want separate comma key, you can change backtick to comma like Whorf.
-
-### Layers 
-
-If available, Sapir recommends using layers.
 
 Delimiters and a numpad takes the lower layer. 
 
@@ -54,31 +44,20 @@ Delimiters and a numpad takes the lower layer.
 Symbols are mapped on the upper layer.
 
 ```
-
+              ? 
 $ % # ~     ^ @ & !
-            ? ' ; , \
+
          - 
 ```
 
-As you see, underscore and hyphen are associated with space. 
+Underscore and hyphen are associated with space. 
 
-### AltGr & non-printables
-
-```
-⎋ Ω ¬ ˙ © œ ∆ ƒ ø ¨ ` ⇥ 
-⌫ ß ® ˜ † µ ¥ ç å ´ ˆ ⏎ 
-⇧ √ ≈ ∫ ∂ ˚ ∑ π Æ Ú ≥ ÷
-^ ⇪ ⌥ ⌘ ▽  ␣  △ ↑ ↓ ← → 
-```
-
-Caps-lock is moved down for more used keys. Backspace and tab are swapped. Arrow keys are matched by directions and deviates from the Vim default. 
-
-### ANSI mod
+## ANSI mod
 
 ```
-z l h g q j f o u ` 
+z l h g q j f o u ;
  s r n t m y c a e i / 
-  x b d k v w p ' ; , 
+  x b d k v w p ' , . 
 ```
 
 ## Performance
@@ -88,8 +67,6 @@ z l h g q j f o u `
 | Semimak | low          | lowest     | low             |
 | Whorf   | lowest       | low        | low             |
 | Sapir   | lowest       | low        | low             |
-
-### Benchmark
 
 ```
 monkeytype-10k
